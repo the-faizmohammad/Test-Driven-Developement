@@ -1,4 +1,4 @@
-require_relative './solver'
+require './solver'
 
 RSpec.describe Solver do
   describe '#reverse' do
