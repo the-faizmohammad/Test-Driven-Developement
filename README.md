@@ -98,7 +98,22 @@ To run tests, run the following command:
 
 <!-- AUTHORS -->
 
+## 👥 Author <a name="authors"></a>
 
+👤 **Austin Obimbo**
+
+- GitHub: [@githubhandle](https://github.com/Obimbo07)
+- LinkedIn: [@linkedin](https://www.linkedin.com/in/austin-obimbo/)
+- Wellfound: [@wellfound](https://wellfound.com/u/austin-obimbo)
+
+👤 **Faiz Mohammad**
+
+- GitHub: [@githubhandle](https://github.com/the-faizmohammad)
+- Twitter: [@twitterhandle](https://twitter.com/FaizMoh58742600)
+- Linkdin: [@linkdinhandle](https://www.linkedin.com/in/faiz-mohammad-967354142/)
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FUTURE FEATURES -->
 
